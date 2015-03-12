@@ -1,0 +1,1 @@
+A set of utilities and scripts. Some of them mine, some of them not.  Mostly useful for ~/bin
